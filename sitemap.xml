@@ -3,15 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://we3z.github.io/categories/</loc>
+    <loc>http://www.lovezz.fun/posts/nginx-proxy/</loc>
+    <lastmod>2020-07-17T22:18:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://we3z.github.io/</loc>
+    <loc>http://www.lovezz.fun/posts/</loc>
+    <lastmod>2020-07-17T22:18:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://we3z.github.io/tags/</loc>
+    <loc>http://www.lovezz.fun/</loc>
+    <lastmod>2020-07-17T22:18:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/about/</loc>
+    <lastmod>2020-07-17T21:15:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/it/</loc>
+    <lastmod>2020-07-17T21:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/live/</loc>
+    <lastmod>2020-07-17T21:15:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/all/</loc>
+    <lastmod>2020-07-17T21:15:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/posts/my-first-post/</loc>
+    <lastmod>2020-07-17T17:13:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.lovezz.fun/tags/</loc>
   </url>
   
 </urlset>
